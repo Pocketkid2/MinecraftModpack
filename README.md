@@ -3,7 +3,7 @@
 Based on "The 1.12.2 Pack" (v1.6.3) from the Technic Launcher
 
 ### Changes
-1. ThermalDynamics has been updated to a custom fork maintained by me. Its only purpose right now is to add extra fun sounds to viaducts.
+1. [ThermalDynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics) has been updated to a custom fork maintained by me. Its only purpose right now is to add extra fun sounds to viaducts.
 
 ### Additions
 1. [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) - adds a replacing gadget and building gadget which are extremely useful for large creations

@@ -18,10 +18,10 @@ Based on "The 1.12.2 Pack" (v1.6.5) from the Technic Launcher
 1. Click on the green button on this site labeled "Code"
 2. Click "Download as ZIP"
 3. Extract the downloaded zip file to a folder, and keep the file explorer open to where you see "Flan" and "mods" folder inside
-4. In the Technic Launcher, under the Modpacks tab, select "The 1.12.2 Pack" (it is assumed that you have v1.6.3 installed at this point)
+4. In the Technic Launcher, under the Modpacks tab, select "The 1.12.2 Pack" (it is assumed that you have v1.6.5 installed at this point)
 5. Click "Modpack Options" next to the gear button
 6. On the right side of the "Install Folder", click the "Open" button. It will open the file explorer to a specific location, leave it open.
 7. Copy the "Flan" and "mods" folder from earlier into this new install folder you see. It should ask if you want to overwrite certain files (such as ThermalDynamics.jar), just click Yes
 8. Once it is done, close all the file explorers and boot up the game by hitting Play in the Technic Launcher
-9. Wait for the game to boot, and you should see a higher mod count (365 or so) at the main menu
+9. Wait for the game to boot, and you should see a higher mod count (367 or so) at the main menu
 10. Congrats, the modpack additions are now installed! Now set your controls and options and go have fun!

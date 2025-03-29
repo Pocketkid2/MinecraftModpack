@@ -1,6 +1,6 @@
 # Adam's Minecraft Modpack
 
-Based on "The 1.12.2 Pack" (v1.6.4) from the Technic Launcher
+Based on "The 1.12.2 Pack" (v1.6.5) from the Technic Launcher
 
 ### Changes
 1. [ThermalDynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics) has been updated to a custom fork maintained by me. Its only purpose right now is to add extra fun sounds to viaducts.

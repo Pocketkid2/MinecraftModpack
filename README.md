@@ -14,7 +14,7 @@ Based on "The 1.12.2 Pack" (v1.6.5) from the Technic Launcher
 5. [MalisisDoors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors) + [MalisisBlocks](https://www.curseforge.com/minecraft/mc-mods/malisisblocks) (+ MalisisCore library) - Fancier doors and things like player sensors
 7. [Flan's mod](https://www.curseforge.com/minecraft/mc-mods/flans-mod-5-5-2) with all official content packs - Lots of guns and military vehicles, but in Minecraft!
 
-### Installation
+### Installation (assumes you already have The 1.12.2 Pack 1.6.5 already installed)
 1. Click on the green button on this site labeled "Code"
 2. Click "Download as ZIP"
 3. Extract the downloaded zip file to a folder, and keep the file explorer open to where you see "Flan" and "mods" folder inside

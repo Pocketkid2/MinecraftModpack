@@ -1,6 +1,6 @@
 # Adam's Minecraft Modpack
 
-Based on "The 1.12.2 Pack" (v1.6.5) from the Technic Launcher
+Based on "The 1.12.2 Pack" (v1.6.6) from the Technic Launcher
 
 ### Changes
 1. [ThermalDynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics) has been updated to a custom fork maintained by me. The only change at the moment is that I added fun sounds to viaducts.
@@ -14,11 +14,11 @@ Based on "The 1.12.2 Pack" (v1.6.5) from the Technic Launcher
 5. [MalisisDoors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors) + [MalisisBlocks](https://www.curseforge.com/minecraft/mc-mods/malisisblocks) (+ MalisisCore library) - Fancier doors and things like player sensors
 7. [Flan's mod](https://www.curseforge.com/minecraft/mc-mods/flans-mod-5-5-2) with all official content packs - Lots of guns and military vehicles, but in Minecraft!
 
-### Installation (assumes you already have The 1.12.2 Pack 1.6.5 already installed)
+### Installation (assumes you already have The 1.12.2 Pack 1.6.6 already installed)
 1. Click on the green button on this site labeled "Code"
 2. Click "Download as ZIP"
 3. Extract the downloaded zip file to a folder, and keep the file explorer open to where you see "Flan" and "mods" folder inside
-4. In the Technic Launcher, under the Modpacks tab, select "The 1.12.2 Pack" (it is assumed that you have v1.6.5 installed at this point)
+4. In the Technic Launcher, under the Modpacks tab, select "The 1.12.2 Pack" (it is assumed that you have v1.6.6 installed at this point)
 5. Click "Modpack Options" next to the gear button
 6. On the right side of the "Install Folder", click the "Open" button. It will open the file explorer to a specific location, leave it open.
 7. Copy the "Flan" and "mods" folder from earlier into this new install folder you see. NOTE: You must go into the mods folder and manually remove the older versions of ThermalDynamics and OpenBlocks mod .jar files.

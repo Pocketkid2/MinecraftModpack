@@ -5,6 +5,7 @@ Based on "The 1.12.2 Pack" (v1.6.6) from the Technic Launcher
 ### Changes
 1. [ThermalDynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics) has been updated to a custom fork maintained by me. The only change at the moment is that I added fun sounds to viaducts.
 2. [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) has been updated to a custom fork maintained by me. The only change at the moment is that I updated the grave feature to store full XP points in addition to inventory items.
+3. [LoliASM](https://www.curseforge.com/minecraft/mc-mods/lolasm) has been updated to 5.31 from 5.28. The mod also goes by the name "CensoredASM" so you will need to remove the previous mod file with that name from the mods folder before booting up after installing the new one
 
 ### Additions
 1. [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) - adds a replacing gadget and building gadget which are extremely useful for large creations

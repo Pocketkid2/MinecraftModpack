@@ -13,7 +13,7 @@ Based on "The 1.12.2 Pack" (v1.6.6) from the Technic Launcher
 3. [Light Level Overlay](https://www.curseforge.com/minecraft/mc-mods/light-level-overlay-reloaded) - Press F4 to see the light level (0-15) of all flat surfaces, to determine if mobs can spawn (the color indicates mob spawning ability, unless you already know that 7 or lower can spawn mobs)
 4. [Optifine](https://optifine.net/home) - helps with framerate and adds some other fun things like zoom by pressing C
 5. [MalisisDoors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors) + [MalisisBlocks](https://www.curseforge.com/minecraft/mc-mods/malisisblocks) (+ MalisisCore library) - Fancier doors and things like player sensors
-7. [Flan's mod](https://www.curseforge.com/minecraft/mc-mods/flans-mod-5-5-2) with all official content packs - Lots of guns and military vehicles, but in Minecraft!
+7. [Flan's mod](https://www.curseforge.com/minecraft/mc-mods/flans-mod-5-5-2) with all official content packs - Lots of guns and military vehicles, but in Minecraft! (custom fork maintained by me with a couple fixes patched in)
 
 ### Installation (assumes you already have The 1.12.2 Pack 1.6.6 already installed)
 1. Click on the green button on this site labeled "Code"

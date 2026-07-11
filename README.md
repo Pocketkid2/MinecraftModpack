@@ -3,9 +3,10 @@
 Based on "The 1.12.2 Pack" (v1.6.6) from the Technic Launcher
 
 ### Changes
-1. [ThermalDynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics) has been updated to a custom fork maintained by me. The only change at the moment is that I added fun sounds to viaducts.
-2. [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) has been updated to a custom fork maintained by me. The only change at the moment is that I updated the grave feature to store full XP points in addition to inventory items.
-3. [LoliASM](https://www.curseforge.com/minecraft/mc-mods/lolasm) has been updated to 5.31 from 5.28. The mod also goes by the name "CensoredASM" so you will need to remove the previous mod file with that name from the mods folder before booting up after installing the new one
+1. [ThermalDynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics) has been updated to a custom fork maintained by me. The only change currently is that I added fun sounds to Viaducts.
+2. [ThermalInnovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation) has been updated to a custom fork maintained by me. The only change currently is that I allowed Hypoinfusers to store milk instead of a potion, which removes potion effects instead of adding them.
+3. [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) has been updated to a custom fork maintained by me. The only change at the moment is that I updated the grave feature to store full XP points in addition to inventory items.
+4. [LoliASM](https://www.curseforge.com/minecraft/mc-mods/lolasm) has been updated to 5.31 from 5.28. The mod also goes by the name "CensoredASM" so you will need to remove the previous mod file with that name from the mods folder before booting up after installing the new one
 
 ### Additions
 1. [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) - adds a replacing gadget and building gadget which are extremely useful for large creations
@@ -22,7 +23,7 @@ Based on "The 1.12.2 Pack" (v1.6.6) from the Technic Launcher
 4. In the Technic Launcher, under the Modpacks tab, select "The 1.12.2 Pack" (it is assumed that you have v1.6.6 installed at this point)
 5. Click "Modpack Options" next to the gear button
 6. On the right side of the "Install Folder", click the "Open" button. It will open the file explorer to a specific location, leave it open.
-7. Copy the "Flan" and "mods" folder from earlier into this new install folder you see. NOTE: You must go into the mods folder and manually remove the older versions of ThermalDynamics and OpenBlocks mod .jar files.
+7. Copy the "Flan" and "mods" folder from earlier into this new install folder you see. NOTE: You must go into the mods folder and manually remove the older versions of ThermalDynamics, ThermalInnovation, OpenBlocks, and LoliASM mod .jar files (see [above](#changes)).
 8. Once it is done, close all the file explorers and boot up the game by hitting Play in the Technic Launcher
 9. Wait for the game to boot, and you should see a higher mod count (367 or so) at the main menu
 10. Congrats, the modpack additions are now installed! Now set your controls and options and go have fun!

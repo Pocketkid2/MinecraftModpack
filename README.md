@@ -23,7 +23,7 @@ Based on "The 1.12.2 Pack" (v1.6.6) from the Technic Launcher
 4. In the Technic Launcher, under the Modpacks tab, select "The 1.12.2 Pack" (it is assumed that you have v1.6.6 installed at this point)
 5. Click "Modpack Options" next to the gear button
 6. On the right side of the "Install Folder", click the "Open" button. It will open the file explorer to a specific location, leave it open.
-7. Copy the "Flan" and "mods" folder from earlier into this new install folder you see. NOTE: You must go into the mods folder and manually remove the older versions of ThermalDynamics, ThermalInnovation, OpenBlocks, and LoliASM mod .jar files (see [above](#changes)).
+7. Copy the "Flan" and "mods" folder from earlier into this new install folder you see. NOTE: You must go into the mods folder and manually remove the older versions of ThermalDynamics, ThermalInnovation, OpenBlocks, and CensoredASM so it won't conflict with LoliASM mod .jar files (see [above](#changes)).
 8. Once it is done, close all the file explorers and boot up the game by hitting Play in the Technic Launcher
 9. Wait for the game to boot, and you should see a higher mod count (367 or so) at the main menu
 10. Congrats, the modpack additions are now installed! Now set your controls and options and go have fun!
